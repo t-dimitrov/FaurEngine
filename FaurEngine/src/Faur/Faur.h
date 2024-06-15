@@ -1,4 +1,2 @@
 #pragma once
-
-#include "Core/Application.h"
-
+#include "Faur/Core/Core.h"

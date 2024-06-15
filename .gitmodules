@@ -1,0 +1,3 @@
+[submodule "FaurEngine/external/spdlog"]
+	path = FaurEngine/external/spdlog
+	url = https://github.com/gabime/spdlog.git

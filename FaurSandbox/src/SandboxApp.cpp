@@ -1,4 +1,5 @@
 #include <Faur/EntryPoint.h>
+#include <Faur/Faur.h>
 
 class SandboxApplication : public Faur::Application
 {
