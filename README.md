@@ -1,2 +1,2 @@
-# Vulpea
+# Faur
 Game Engine for fun
